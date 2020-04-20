@@ -1,2 +1,2 @@
 # Magic8ball
-WH-8 (C# level 2)
+HW-8 (C# level 2)
